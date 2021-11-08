@@ -1,0 +1,155 @@
+Bootstrap is library/framework of html, css javascript, jquery.
+Boostrap is the first framework introduced by twitter.com in 2011 for designing resposive/ device friendly web pages.
+
+Boostrap is pure css library written in css and combined withcss midia query.
+
+Boostrap is designied /developed on grid system
+
+Grid System: frid system is a formula of css use to measured the screen size width
+Grid system : has devided all the devic es into 4 categories.
+
+	1. Xtra small devices (1 px to 777px) 	
+	2. small devices(778 to 990px)
+	3. medium devices (991 to 1200px)
+	4. Large devices (>1201 px)
+	
+	Boostrap is given 48 classes including all devices where as for each category 12 classes are assigned.
+	
+	1. Xtra small devices (1 px to 777px)
+			col-xs-1
+			col-xs-2
+			col-xs-3
+			col-xs-4
+			col-xs-5
+			col-xs-6
+			col-xs-7
+			col-xs-8
+			col-xs-9
+			col-xs-10
+			col-xs-11
+			col-xs-12
+	2. small devices(778 to 990px)
+			col-sm-1
+			col-sm-2
+			col-sm-3
+			col-sm-4
+			col-sm-5
+			col-sm-6
+			col-sm-7
+			col-sm-8
+			col-sm-9
+			col-sm-10
+			col-sm-11
+			col-sm-12
+	3. medium devices (991 to 1200px)
+			col-md-1
+			col-md-2
+			col-md-3
+			col-md-4
+			col-md-5
+			col-md-6
+			col-md-7
+			col-md-8
+			col-md-9
+			col-md-10
+			col-md-11
+			col-md-12
+	4. Large devices (>1201 px)
+			col-lg-1
+			col-lg-2
+			col-lg-3
+			col-lg-4
+			col-lg-5
+			col-lg-6
+			col-lg-7
+			col-lg-8
+			col-lg-9
+			col-lg-10
+			col-lg-11
+			col-lg-12
+-----------------------------------------------------------------------------------------
+
+		While creating a project in bootstrap follow the following steps.
+		
+		1. In head section call the bootstrap.cssfile
+		2. open and close the body tag
+		3. Inside body follow the follwing classes.
+			a. container ( it leave 15px from left side and 15px rom right side)
+			b. container-fluid (It cover 100% width no margin)
+		4. Inside container/ container-fluid follow the class called "row" : by default width is 100% , and height is auto.
+			Note: in 1 page we can use "row" class unlimited times.
+			
+		5. Inside row follow colums(Min-1 max-12)
+		
+		==============List of bootstrap classes =============
+		
+		Container
+		container-fluid
+		row
+		48 types of colomns
+		------------------------
+		51
+		-------------------------
+		Background
+		--------------------
+		bg-danger
+		bg-success
+		bg-warning
+		bg-info
+		well
+		jumbotron
+		----------------
+		img-responsive
+		img-rounded
+		img-circle
+		img-thumbnail
+		---------------
+		table
+		table-bordered
+		table-hover
+		---------------
+		tr
+		success
+		info
+		warning
+		danger
+		active
+		------------------
+		51+18=69
+		-----------------
+		Navigation
+		Left Navigation
+			list-group
+			list-group-item
+			active
+		--------------------
+		Panel
+			Panel
+			Panel-primary
+			Panel-heading
+			Panel-success
+			Panel-warning
+			Panel-info
+			Panel-default
+			Panel-heading
+			Panel-body
+			Panel-footer
+	-----------------------------
+	Alert Message
+	
+		alert
+		alert-danger
+		alert-success
+		alert-info
+		alert-warning
+	-------------------------
+	Text Aligement
+		text-left
+		text-right
+		text-center
+		text-justify
+----------------------
+69+22 =91
+-------------------------
+			
+			
